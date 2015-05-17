@@ -3,6 +3,7 @@ html {
   width: 100%;
   height: 30px;
   background-color: #d2d2d2;
+  background-image: url(img/pattern.svg);
   padding: 0px;
   margin: 0px;
 }
